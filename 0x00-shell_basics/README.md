@@ -1,1 +1,1 @@
-This readme file describes the action of each script
+pwd - prints current working directory
